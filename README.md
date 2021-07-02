@@ -1,4 +1,3 @@
-# teacher-online
 # Teacher Online
 ## Sua plataforma de estudos online
 ### Orgulhosamente desenvolvido na NLW Nex Level Week
