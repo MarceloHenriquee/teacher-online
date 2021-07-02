@@ -2,6 +2,9 @@
 ## Sua plataforma de estudos online
 ### Orgulhosamente desenvolvido na NLW Nex Level Week
  Aplicação onde professores cadastram suas aulas e usuários poderão comprar e  estudar online 
+
+ #### CSS, Typescript
+ ##### =================================>
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
